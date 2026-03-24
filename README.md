@@ -30,6 +30,13 @@ dotnet restore
 
 > This ensures that all packages are installed correctly
 
+Run:
+```terminal
+dotnet tool install --global dotnet-ef
+```
+
+> The installs Entity Framework tools to be used with the SQLite database
+
 If there are no issues, then run:
 ```terminal
 dotnet ef database update
@@ -37,7 +44,7 @@ dotnet ef database update
 
 > This creates the SQLite database and populates it with mock data. Notice the app.db file that is created
 
-If you run both of these commands without issue then your project is ready to be run!
+If you run these 3 commands without issue then your project is ready to be run!
 
 ## Running the Examples
 
