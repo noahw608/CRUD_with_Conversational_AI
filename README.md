@@ -53,7 +53,7 @@ Go back to Google AI Studio and copy your API key that you created before and pa
 
 > Note: both examples have an API key variable you will need to update.
 
-Navigate to the `Program.cs` file and comment out the example you would like to run. Then either type `dotnet run` into your terminal or run the project from Visual Studio.
+Navigate to the `Program.cs` file and uncomment the example you would like to run. Then either type `dotnet run` into your terminal or run the project from Visual Studio.
 
 You can now freely interact with the examples and explore manipulating the database using your Gemini model!
 
