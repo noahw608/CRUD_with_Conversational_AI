@@ -48,7 +48,7 @@ If you run these 3 commands without issue then your project is ready to be run!
 
 ## Running the Examples
 
-To run the examples you will first need to update the `apiKey` variable with your own API key.\
+To run the examples you will first need to update the `apiKey` variable in the `example1.cs` and `example2.cs` files with your own API key.\
 Go back to Google AI Studio and copy your API key that you created before and paste it into the string.
 
 > Note: both examples have an API key variable you will need to update.
